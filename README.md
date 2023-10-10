@@ -9,4 +9,4 @@
 - all to resources and insprations are attached in the source code,
 
   
-![preview img](/preview.png)
+![preview img](/preview.jpg)
